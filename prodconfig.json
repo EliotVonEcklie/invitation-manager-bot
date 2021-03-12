@@ -1,0 +1,74 @@
+{
+    "prefix":"##",
+
+    "token":"ODA5NTI2OTEzOTU3NzU3MDAy.YCWYsA.kTVXcgDep4anxdCpwhF6jPwzat0",
+
+    "version":"1.0.0",
+
+    "currentGuild":"809226008188157983",
+
+    "testing":false,
+
+    "emojis" : {
+        "done":"✅",
+        "ok":"👌",
+        "flushed":"😳",
+        "pinching":"🤏",
+        "glasses":"🕶️"
+    },
+
+    "platforms" : [
+        "Google Meet",
+        "Microsoft Teams"
+    ],
+
+    "channels" : {
+        "general":"809249522403770399",
+        
+        "names" : [
+            "razonadores",
+            "c-asertivos",
+            "c-en-otra-lengua",
+            "ciudadanos",
+            "activos",
+            "innovadores",
+            "creativos",
+            "indagadores",
+            "quimica",
+            "cultura-de-paz",
+            "fisica",
+            "espirituales",
+            "reflexivos"
+        ],
+        "display" : [
+            "Razonadores",
+            "Comunicadores Asertivos",
+            "Comunicadores en Otra Lengua",
+            "Ciudadanos",
+            "Activos",
+            "Innovadores",
+            "Creativos",
+            "Indagadores",
+            "Quimica",
+            "Cultura de Paz",
+            "Física",
+            "Espirituales",
+            "Reflexivos"
+        ],
+        "ids" : [
+            "809226593875787816",
+            "809226823929823282",
+            "809226880741146644",
+            "809226924848185364",
+            "809227053365723177",
+            "809227117241958410",
+            "809227151420817437",
+            "809227325660856372",
+            "809228110150500374",
+            "809228597054144532",
+            "809509585605754990",
+            "809228643171303456",
+            "809230763098767410"
+        ]
+    }
+}
